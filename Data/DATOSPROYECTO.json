@@ -1,0 +1,222 @@
+[
+	{
+		"materia": "APO 1",
+		"seccion": "1",
+		"HoraInicio": "0",
+		"HoraFin": "5",
+		"Dia": "Lunes"
+	},
+	{
+		"materia": "APO 1",
+		"seccion": "1",
+		"HoraInicio": "0",
+		"HoraFin": "5",
+		"Dia": "Miercoles"
+	},
+	{
+		"materia": "APO 1",
+		"seccion": "1",
+		"HoraInicio": "0",
+		"HoraFin": "5",
+		"Dia": "Viernes"
+	},
+	{
+		"materia": "APO 1",
+		"seccion": "2",
+		"HoraInicio": "18",
+		"HoraFin": "23",
+		"Dia": "Lunes"
+	},
+	{
+		"materia": "APO 1",
+		"seccion": "2",
+		"HoraInicio": "18",
+		"HoraFin": "23",
+		"Dia": "Miercoles"
+	},
+	{
+		"materia": "APO 1",
+		"seccion": "2",
+		"HoraInicio": "18",
+		"HoraFin": "23",
+		"Dia": "Viernes"
+	},
+	{
+		"materia": "APO 1",
+		"seccion": "3",
+		"HoraInicio": "30",
+		"HoraFin": "35",
+		"Dia": "Lunes"
+	},
+	{
+		"materia": "APO 1",
+		"seccion": "3",
+		"HoraInicio": "30",
+		"HoraFin": "35",
+		"Dia": "Miercoles"
+	},
+	{
+		"materia": "APO 1",
+		"seccion": "3",
+		"HoraInicio": "30",
+		"HoraFin": "35",
+		"Dia": "Viernes"
+	},
+	{
+		"materia": "Calculo Diferencial",
+		"seccion": "1",
+		"HoraInicio": "6",
+		"HoraFin": "11",
+		"Dia": "Lunes"
+	},
+	{
+		"materia": "Calculo Diferencial",
+		"seccion": "1",
+		"HoraInicio": "6",
+		"HoraFin": "11",
+		"Dia": "Miercoles"
+	},
+	{
+		"materia": "Calculo Diferencial",
+		"seccion": "1",
+		"HoraInicio": "6",
+		"HoraFin": "11",
+		"Dia": "Viernes"
+	},
+	{
+		"materia": "Calculo Diferencial",
+		"seccion": "2",
+		"HoraInicio": "12",
+		"HoraFin": "17",
+		"Dia": "Lunes"
+	},
+	{
+		"materia": "Calculo Diferencial",
+		"seccion": "2",
+		"HoraInicio": "12",
+		"HoraFin": "17",
+		"Dia": "Miercoles"
+	},
+	{
+		"materia": "Calculo Diferencial",
+		"seccion": "2",
+		"HoraInicio": "12",
+		"HoraFin": "17",
+		"Dia": "Viernes"
+	},
+	{
+		"materia": "Calculo Diferencial",
+		"seccion": "3",
+		"HoraInicio": "18",
+		"HoraFin": "23",
+		"Dia": "Lunes"
+	},
+	{
+		"materia": "Calculo Diferencial",
+		"seccion": "3",
+		"HoraInicio": "18",
+		"HoraFin": "23",
+		"Dia": "Miercoles"
+	},
+	{
+		"materia": "Calculo Diferencial",
+		"seccion": "3",
+		"HoraInicio": "18",
+		"HoraFin": "23",
+		"Dia": "Viernes"
+	},
+	{
+		"materia": "Calculo Diferencial",
+		"seccion": "4",
+		"HoraInicio": "24",
+		"HoraFin": "29",
+		"Dia": "Lunes"
+	},
+	{
+		"materia": "Calculo Diferencial",
+		"seccion": "4",
+		"HoraInicio": "24",
+		"HoraFin": "29",
+		"Dia": "Miercoles"
+	},
+	{
+		"materia": "Calculo Diferencial",
+		"seccion": "4",
+		"HoraInicio": "24",
+		"HoraFin": "29",
+		"Dia": "Viernes"
+	},
+	{
+		"materia": "Quimica General",
+		"seccion": "1",
+		"HoraInicio": "24",
+		"HoraFin": "29",
+		"Dia": "Martes"
+	},
+	{
+		"materia": "Quimica General",
+		"seccion": "1",
+		"HoraInicio": "24",
+		"HoraFin": "29",
+		"Dia": "Jueves"
+	},
+	{
+		"materia": "Quimica General",
+		"seccion": "2",
+		"HoraInicio": "18",
+		"HoraFin": "23",
+		"Dia": "Martes"
+	},
+	{
+		"materia": "Quimica General",
+		"seccion": "2",
+		"HoraInicio": "18",
+		"HoraFin": "23",
+		"Dia": "Jueves"
+	},
+	{
+		"materia": "Quimica General",
+		"seccion": "3",
+		"HoraInicio": "30",
+		"HoraFin": "35",
+		"Dia": "Martes"
+	},
+	{
+		"materia": "Quimica General",
+		"seccion": "3",
+		"HoraInicio": "30",
+		"HoraFin": "35",
+		"Dia": "Jueves"
+	},
+	{
+		"materia": "Espanol",
+		"seccion": "1",
+		"HoraInicio": "6",
+		"HoraFin": "11",
+		"Dia": "Martes"
+	},
+	{
+		"materia": "Espanol",
+		"seccion": "1",
+		"HoraInicio": "6",
+		"HoraFin": "11",
+		"Dia": "Jueves"
+	},
+	{
+		"materia": "Espanol",
+		"seccion": "2",
+		"HoraInicio": "12",
+		"HoraFin": "17",
+		"Dia": "Martes"
+	},
+	{
+		"materia": "Espanol",
+		"seccion": "2",
+		"HoraInicio": "12",
+		"HoraFin": "17",
+		"Dia": "Jueves"
+	},
+	{
+		"materia": ""
+	}
+]
